@@ -1,2 +1,2 @@
-# academy-web.github.io
+# Pasko Mykhailo
 Обучение на Академия верстки
